@@ -1,5 +1,3 @@
-import {AxiosResponse} from "axios";
-
 import {apiService} from "./apiService";
 import {urls} from "../constants/urls";
 import {ICar} from "../interfces/carInterface";
