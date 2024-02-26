@@ -1,4 +1,4 @@
-import {FC, PropsWithChildren} from "react";
+import {FC} from "react";
 import {ICar} from "../../interfces/carInterface";
 import {ISetState} from "../../types/setStateType";
 
